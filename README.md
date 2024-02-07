@@ -1,5 +1,5 @@
 # RFM-Analysis
-Recency,Frequency and Monetary Anlysis
+Recency,Frequency and Monetary Analysis
 https://colab.research.google.com/drive/1uTmRZX2fEex2m_3CSazkFJ7j7DOOAO4f?usp=sharing
 
 Python
